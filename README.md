@@ -10,7 +10,4 @@
 
 📧 **Email:** shaundj20@gmail.com  
 
-### 📊 GitHub Stats  
-![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaun-ak&show_icons=true&theme=radical)  
-
 💡 *Always learning, building, and exploring tech!*  
