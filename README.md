@@ -6,7 +6,7 @@
 - 🎯 Currently seeking **remote JavaScript/TypeScript roles** 
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shaunak-das-586338188/))  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)]([https://twitter.com/your-profile](https://twitter.com/your-profile))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaunak-das-586338188/)  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/Shaun_ak_) 
 
 📧 **Email:** shaundj20@gmail.com  
 
