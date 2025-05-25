@@ -1,7 +1,7 @@
 # Hi there, I'm Shaunak! 👋  
 
 🚀 **Frontend Developer | Angular & TypeScript**  
-- 🔭 3 years of experience working with **Angular, TypeScript, and JavaScript** 
+- 🔭 3 years of experience working with **Angular, TypeScript, and JavaScript (Also React)** 
 - 🌱 Exploring & contributing to open-source projects
 - 🎯 Currently seeking **remote JavaScript/TypeScript roles** 
 
